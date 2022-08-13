@@ -1,7 +1,5 @@
 package app.entities;
 
-import com.sun.org.apache.xpath.internal.objects.XObject;
-
 public class User {
     private String name;
     private String password;
